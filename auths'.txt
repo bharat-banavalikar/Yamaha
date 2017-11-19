@@ -1,0 +1,15 @@
+
+Admin--
+Can add delete and update employees and customers
+email : bharat@gmail.com
+password : bharat123
+
+
+Employee--
+Can add delete and update customers
+employee : rhisab@gmail.com
+password : bharat123
+
+Customer--
+Can view details about the products available
+user : signup it will set you  as user
